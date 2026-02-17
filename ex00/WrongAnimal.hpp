@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   WrongAnimal.hpp                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sevvalbayrak <sevvalbayrak@student.42.f    +#+  +:+       +#+        */
+/*   By: sbayrak <sbayrak@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/02/17 18:31:47 by sevvalbayra       #+#    #+#             */
-/*   Updated: 2026/02/17 18:31:48 by sevvalbayra      ###   ########.fr       */
+/*   Updated: 2026/02/18 01:31:14 by sbayrak          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

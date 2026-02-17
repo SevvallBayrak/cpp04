@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   WrongCat.hpp                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sevvalbayrak <sevvalbayrak@student.42.f    +#+  +:+       +#+        */
+/*   By: sbayrak <sbayrak@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/02/17 18:31:56 by sevvalbayra       #+#    #+#             */
-/*   Updated: 2026/02/18 01:15:10 by sevvalbayra      ###   ########.fr       */
+/*   Updated: 2026/02/18 01:31:23 by sbayrak          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

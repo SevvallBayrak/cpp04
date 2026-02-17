@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   Animal.cpp                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sevvalbayrak <sevvalbayrak@student.42.f    +#+  +:+       +#+        */
+/*   By: sbayrak <sbayrak@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/02/17 18:31:09 by sevvalbayra       #+#    #+#             */
-/*   Updated: 2026/02/17 18:31:11 by sevvalbayra      ###   ########.fr       */
+/*   Created: 2026/02/18 01:24:11 by sbayrak           #+#    #+#             */
+/*   Updated: 2026/02/18 01:24:12 by sbayrak          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
